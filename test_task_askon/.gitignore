@@ -1,0 +1,18 @@
+# C/C++ output
+**/*.exe
+**/*.out
+**/*.o
+
+# CMake
+**/*build*/*
+CMakeLists.txt
+CMakeCache.txt
+CMakeFiles
+CMakeScripts
+Makefile
+
+# IDEA folders
+.idea/
+
+# VS Code
+.vscode/
