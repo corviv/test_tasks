@@ -5,7 +5,6 @@
 
 # CMake
 **/*build*/*
-CMakeLists.txt
 CMakeCache.txt
 CMakeFiles
 CMakeScripts
